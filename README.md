@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-# Linkendin - https://www.linkedin.com/in/nikola-tucakov/
-# Youtube - SOON
-# Twitter - SOON
-# Instagram - SOON
+### Linkendin - https://www.linkedin.com/in/nikola-tucakov/
+### Youtube - SOON
+### Twitter - SOON
+### Instagram - SOON
 
 <br />
 
