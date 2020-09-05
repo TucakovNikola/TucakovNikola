@@ -1,9 +1,9 @@
 ### Hi there, I'm Nikola - aka [Noah Tech King]
 
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a self thought programmer and a gamer
 
-- 🔭 I’m currently working on a [English-Course] 
+- 🔭 I’m currently working on a English-Course 
 - 🌱 I’m currently learning Python and JavaScript 
 - 🥅 Goals: To become good at AI and MachineLerning
 - ⚡ Fun fact: I love to draw and play video games and listen to music
