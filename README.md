@@ -10,7 +10,7 @@
 
 ## Connect with me:
 
-### Linkendin - https://www.linkedin.com/in/nikola-tucakov/
+### [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ### Youtube - SOON
 ### Twitter - SOON
 ### Instagram - SOON
@@ -28,3 +28,6 @@
 [<img align="left" alt="JS" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />]
 [<img align="left" alt="Flask" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png" />]
 
+<br />
+
+[linkedin]: https://www.linkedin.com/in/nikola-tucakov/
