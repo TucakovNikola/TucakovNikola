@@ -20,7 +20,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-NoahKing.vercel.app/api/spotify-playing" />](https://open.spotify.com/track/7iwnyFLjOXxdWFEkYGreuW)
+[<img src="https://open.spotify.com/user/pj1nqmd5cwlofp6i952kzlatg" />](https://open.spotify.com/track/7iwnyFLjOXxdWFEkYGreuW)
 
 <br />
 ### Languages and Tools:
