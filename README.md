@@ -8,7 +8,7 @@
 - 🥅 Goals: To become good at AI and MachineLerning
 - ⚡ Fun fact: I love to draw and play video games and listen to music
 
-### Connect with me:
+## Connect with me:
 
 ### Linkendin - https://www.linkedin.com/in/nikola-tucakov/
 ### Youtube - SOON
