@@ -24,7 +24,11 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="JS" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://i.imgur.com/VyjCJuz.png" />]
+[<img align="left" alt="Flask" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png" />]
+
+
+
+http://3con14.biz/code/_data/js/intro/js-logo.png
 
 <br />
 <br />
