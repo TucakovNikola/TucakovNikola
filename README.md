@@ -28,6 +28,3 @@
 [<img align="left" alt="JS" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />]
 [<img align="left" alt="Flask" width="26px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png" />]
 
-
-<br />
-<br />
