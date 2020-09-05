@@ -1,5 +1,6 @@
 ### Hi there, I'm Nikola - aka [Noah Tech King]
 
+<br />
 
 ## I'm a self thought programmer and a gamer
 
