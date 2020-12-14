@@ -1,4 +1,4 @@
-### Hi there, I'm Nikola - aka [Noah Tech King]
+### Hi there, I'm Nikola - aka [Noah Tech]
 
 <br />
 
