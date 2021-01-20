@@ -1,13 +1,13 @@
-### Hi there, I'm Nikola - aka [Noah Tech]
+### Hi there, I'm Noah - aka [Noah Technologies]
 
 <br />
 
 ## I'm a self thought programmer and a gamer
 
-- 🔭 I’m currently working on a English-Course 
+- 🔭 I’m currently working on a mastering Python
 - 🌱 I’m currently learning Python and JavaScript 
-- 🥅 Goals: To become good at AI and MachineLerning
-- ⚡ Fun fact: I love to draw and play video games and listen to music
+- 🥅 Goals: To become good at AI and Web Development
+- ⚡ Fun fact about me: I love to play video games and listen to music
 
 ## Connect with me:
 
