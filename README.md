@@ -12,8 +12,8 @@
 ## Connect with me:
 
 ### Youtube - SOON
-### Twitter - @noah_technologies
-### Instagram - @noah_technologies
+### Twitter - @NikolanTech
+### Instagram - @nikola_technologies
 
 <br />
 
