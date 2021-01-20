@@ -18,7 +18,7 @@
 <br />
 
 ## Spotify Playing 🎧
-| <a href="https://open.spotify.com/playlist/0cyH0TxFDgCQ2gQbs6shh2"></a> |
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 ## Languages and Tools:
 
