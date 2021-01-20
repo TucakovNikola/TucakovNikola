@@ -18,7 +18,7 @@
 <br />
 
 ## Spotify Playing 🎧
-[<img src="https://open.spotify.com/playlist/0cyH0TxFDgCQ2gQbs6shh2?si=nNoY8ivvTy-6bVrvtZAgqQ" alt="NorbetKing Spotify Playing" width="350" />](https://open.spotify.com/track/7iwnyFLjOXxdWFEkYGreuW)
+[<img src="https://open.spotify.com/track/5tshgBOxBcjRAoHEuSBCS9" alt="NorbetKing Spotify Playing" width="350" />](https://open.spotify.com/playlist/0cyH0TxFDgCQ2gQbs6shh2)
 
 <br />
 
