@@ -1,4 +1,4 @@
-### Hi there, I'm Noah - aka [Noah Technologies]
+### Hi there, I'm Noah - aka [Nikola Technologies]
 
 <br />
 
