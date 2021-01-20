@@ -11,11 +11,9 @@
 
 ## Connect with me:
 
-### [<img align="middle" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 ### Youtube - SOON
-### Twitter - SOON
-### Instagram - SOON
+### Twitter - @noah_technologies
+### Instagram - @noah_technologies
 
 <br />
 
