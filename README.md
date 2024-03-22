@@ -4,5 +4,4 @@
 - 🌱 I’m currently working on Web Development projects
 
 - ⚡ Current Skills:
-          HTML, CSS, JS, Bootstrap, Jquery
-          Python
+          HTML, CSS, JS, Bootstrap, Jquery, Python
