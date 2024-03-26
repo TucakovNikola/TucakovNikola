@@ -5,3 +5,7 @@
 
 - ⚡ Current Skills:
           HTML, CSS, JS, Bootstrap, Jquery, Python
+
+- 👋 Current Project:
+            Portfolio site, Community Collections App
+
